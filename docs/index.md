@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Student Feedback Intelligence Platform
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+An AI-powered institutional intelligence platform that transforms student feedback into actionable insights.
 
-## Commands
+## Features
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Theme Discovery
+- Sentiment Analysis
+- Recommendation Generation
+- Dashboard Analytics
